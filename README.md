@@ -1,1 +1,1 @@
-# JavaScriptWithChay
+# JavaScriptWithChai
